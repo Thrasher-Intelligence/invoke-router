@@ -1,0 +1,12 @@
+{
+    "1": {
+        "module": "examples.one",
+        "label": "Page One",
+        "aliases": ["one"]
+    },
+    "2": {
+        "module": "examples.two",
+        "label": "Page Two",
+        "aliases": ["two"]
+    }
+}
