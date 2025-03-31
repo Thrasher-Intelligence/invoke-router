@@ -95,5 +95,5 @@ Feel free to fork, open issues, or submit pull requests. Contributions and feedb
 
 ## License
 
-GPL License © Jake Eaker
+MIT License © Jake Eaker
 
